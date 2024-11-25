@@ -8,7 +8,7 @@
 
 - 方式2：只复制B站视频的 BV 号如 `BV1wXsNegEAF` 点击搜索。
 
-- 方式3：在本站地址后面加 `?` + `b站视频整个链接`， [链接示例](http://i9a5ef7e.hk-vh-c.x-c.top/bilivideo/index.html?https://www.bilibili.com/video/BV1wXsNegEAF/?spm_id_from=333.337.search-card.all.click&vd_source=3902bbe90e196452bf69eecfeede5d71) 。
+- 方式3：在本站地址后面加 `?` + `b站视频整个链接`， [链接示例](http://i9a5ef7e.hk-vh-c.x-c.top/bilivideo/index.html?https://www.bilibili.com/video/BV17S4y1N7Ry/?spm_id_from=333.337.search-card.all.click&vd_source=3902bbe90e196452bf69eecfeede5d71) 。
 
 视频加载后可以右键视频或移动端长按视频弹出下载提示。
 
